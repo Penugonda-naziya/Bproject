@@ -1,0 +1,7 @@
+Name:
+Age:
+Contact No:
+Adress:
+Salary:
+DOJ:
+`
