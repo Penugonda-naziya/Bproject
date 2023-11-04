@@ -1,4 +1,11 @@
+
+
+OS: Ubuntu
+Arch: x64
+CPU: 24 Pro
+RAM: 128 GB
 Platform: Cloud
 Ec2: C5 Large
 EBS: gp3
 snapshots: enabled 
+
